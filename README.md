@@ -28,7 +28,7 @@ DIRECTORY TREE:
 
 DEMO:
 
-API Link: https://bitcoinpredictionapi.herokuapp.com/
+API Link: 
 
 ![image](https://user-images.githubusercontent.com/68370376/115851306-6be78b00-a444-11eb-9180-f9c27c7e3be9.png)
 ![image](https://user-images.githubusercontent.com/68370376/115851321-7013a880-a444-11eb-8b05-96c08ca1f21b.png)
